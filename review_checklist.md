@@ -4,6 +4,7 @@
 - Process all notes
 - Re-plan all undone TODOs
 - Update Next Steps mindmap
+- Write down feedbacks for others
 - Add TODOs for T+2 APPTs
 - Update daily human log
 - Write down tomorrow's primary and secondary tasks
